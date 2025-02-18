@@ -1,6 +1,7 @@
 {
     "redirects": [
       { "source": "/index.html", "destination": "/", "type": 301 }
+      { "source": "/about.html", "destination": "/about", "type": 301 }
     ]
   }
   
